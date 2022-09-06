@@ -1,6 +1,6 @@
 # Tiimi 1:n TODO-app
 
-Gradian C# perusteeiden lopputyö (Tehty 3 hengen ryhmässä)
+Gradian C# perusteiden lopputyö (Tehty 3 hengen ryhmässä)
 
 
 Asentaaksesi ohjelman lataa MSI-asennustiedosto github-repon releases-sivulta. HUOM: tarvitset ohjelman asennukseen admin-oikeudet.
